@@ -1,2 +1,2 @@
-# Glxrce.github.io
+# glxrce.github.io
 
